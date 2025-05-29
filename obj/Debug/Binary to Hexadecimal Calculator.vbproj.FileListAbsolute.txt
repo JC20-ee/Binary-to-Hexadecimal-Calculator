@@ -1,0 +1,13 @@
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\bin\Debug\Binary to Hexadecimal Calculator.exe.config
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\bin\Debug\Binary to Hexadecimal Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\bin\Debug\Binary to Hexadecimal Calculator.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\bin\Debug\Binary to Hexadecimal Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.vbproj.AssemblyReference.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary_to_Hexadecimal_Calculator.Form1.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary_to_Hexadecimal_Calculator.Resources.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.vbproj.GenerateResource.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary to Hexadecimal Calculator.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Binary to Hexadecimal Calculator\obj\Debug\Binary_to_Hexadecimal_Calculator.Form2.resources
